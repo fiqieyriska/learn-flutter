@@ -1,16 +1,39 @@
-# my_daily_notes
+# My Daily Notes
 
-A new Flutter project.
+## About This Project
 
-## Getting Started
+My Daily Notes is a personal learning project created as part of my journey in learning Flutter.
 
-This project is a starting point for a Flutter application.
+This project was developed to understand the fundamentals of mobile application development using Flutter and Dart. Through this project, I am learning how to build user interfaces, manage application state, navigate between pages, and implement basic CRUD functionality.
 
-A few resources to get you started if this is your first Flutter project:
+The application is designed as a simple daily notes app where users can create, view, edit, and delete their notes.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## What I Am Learning
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+During the development of this project, I am learning:
+
+- Understanding Flutter project structure.
+- Using Dart programming language.
+- Building UI with Flutter Widgets.
+- Understanding StatelessWidget and StatefulWidget.
+- Managing state using setState().
+- Implementing navigation between pages.
+- Passing data between screens.
+- Creating basic CRUD functionality.
+- Learning local database integration with SQLite.
+
+## Technologies
+
+- Flutter
+- Dart
+- Android Studio
+
+## Project Purpose
+
+The main purpose of this project is to gain practical experience in Flutter development, improve programming skills, and understand how a mobile application is built step by step.
+
+This project is still under development and will continue to be improved as I learn more about Flutter.
+
+---
+
+**Learning by Building, Improving Step by Step.**
