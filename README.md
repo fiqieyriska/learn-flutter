@@ -8,7 +8,7 @@ This project was developed to understand the fundamentals of mobile application 
 
 The application is designed as a simple daily notes app where users can create, view, edit, and delete their notes.
 
-<img width="700" height="500" alt="Screenshot_20261111_100702" src="https://github.com/user-attachments/assets/e078f842-30a3-44f5-9d09-9466271806cb" />
+<img width="1000" height="950" alt="Screenshot_20261111_100702" src="https://github.com/user-attachments/assets/e078f842-30a3-44f5-9d09-9466271806cb" />
 
 ## What I Am Learning
 
